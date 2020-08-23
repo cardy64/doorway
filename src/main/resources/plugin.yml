@@ -1,0 +1,6 @@
+name: Doorway
+version: ${project.version}
+main: me.miloapplechief.doorway.Doorway
+api-version: 1.13
+commands:
+  doorway:
